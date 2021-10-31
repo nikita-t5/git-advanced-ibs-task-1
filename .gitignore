@@ -1,4 +1,5 @@
 /build/
+/target/
 
 *.jar
 !module2.jar
